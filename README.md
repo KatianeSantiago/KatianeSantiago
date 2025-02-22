@@ -1,13 +1,13 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FBFBFB&size=30&center=true&vCenter=true&width=1000&lines=Oii!+Me+chamo+Katiane+Santiago.;Seja+bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FBFBFB&size=30&center=true&vCenter=true&width=1000&lines=Oii!+Me+chamo+Katiane+Santiago.;Seja+bem-vindo!+%CB%99%E1%B5%95%CB%99)](https://git.io/typing-svg)
 
 ##
 
-👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas. 
-   
-🌱 Atualmente estudando Java e MySQL.
+- 👩‍🎓 Graduanda de Análise e Desenvolvimento de Sistemas. 
+- 🌱 Atualmente estudando Java e MySQL.
 
-<img align="right" alt="" height="180px" src="study.gif">
+<img align="right" alt="" height="180px" src="study.jpg">
 
 <div>
   <a href="https://github.com/KatianeSantiago">

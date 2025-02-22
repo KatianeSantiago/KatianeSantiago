@@ -2,16 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FBFBFB&size=30&center=true&vCenter=true&width=1000&lines=Oii!+Me+chamo+Katiane+Santiago.;Seja+bem-vindo!+%CB%99%E1%B5%95%CB%99)](https://git.io/typing-svg)
 
-##
-
-- 👩‍🎓 Graduanda de Análise e Desenvolvimento de Sistemas. 
+- 👩‍🎓 Graduanda de Análise e Desenvolvimento de Sistemas.    
 - 🌱 Atualmente estudando Java e MySQL.
 
-<img align="right" alt="" height="180px" src="study.jpg">
+##
 
 <div>
   <a href="https://github.com/KatianeSantiago">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatianeSantiago&layout=compact&custom_title=Linguagens+Mais+Usadas&theme=dark"/>
+ <img align="right" alt="" height="210px" src="study.jpg">
 </div> 
     
 ## 

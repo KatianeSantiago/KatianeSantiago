@@ -1,18 +1,13 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FBFBFB&size=20&center=true&vCenter=true&width=1000&lines=Oii!+Me+chamo+Katiane+Santiago.;Seja+bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FBFBFB&size=30&center=true&vCenter=true&width=1000&lines=Oii!+Me+chamo+Katiane+Santiago.;Seja+bem-vindo!)](https://git.io/typing-svg)
 
-🌱 Estudando Java e MySQL
-  
 ##
 
-<img align="right" alt="" height="190px" src="study.gif">
+👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas. 
+   
+🌱 Atualmente, estudando Java e MySQL.
 
-<h3 align="left">Conecte comigo!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:katianesm.br@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/katiane-santiago/)
-
-## 
+<img align="right" alt="" height="180px" src="study.gif">
 
 <div>
   <a href="https://github.com/KatianeSantiago">
@@ -31,8 +26,12 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"> 
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
+</div> 
 
+##
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](gmail:katianesm.br@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/katiane-santiago/)
 
 
 

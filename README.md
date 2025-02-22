@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/KatianeSantiago">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatianeSantiago&layout=compact&custom_title=Linguagens+Mais+Usadas&theme=dark"/>
- <img align="right" alt="" height="210px" src="study.jpg">
+ <img align="right" alt="" height="200px" src="study.jpg">
 </div> 
     
 ## 

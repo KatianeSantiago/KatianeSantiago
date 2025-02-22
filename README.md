@@ -5,7 +5,7 @@
 
 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas. 
    
-🌱 Atualmente, estudando Java e MySQL.
+🌱 Atualmente estudando Java e MySQL.
 
 <img align="right" alt="" height="180px" src="study.gif">
 

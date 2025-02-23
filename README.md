@@ -8,7 +8,7 @@
 <img align="left" alt="" height="250px" src="study.jpg">  
 👩‍🎓 Graduanda de Análise e Desenvolvimento de Sistemas. 
   
-🌱 Atualmente estudando Java e MySQL.
+🌱 Atualmente estudando Java.
 
 <a href="https://github.com/KatianeSantiago">
 <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatianeSantiago&layout=compact&custom_title=Linguagens+Mais+Usadas&theme=dark"/>
